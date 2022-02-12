@@ -46,6 +46,12 @@ a {
     color: lightblue;
 }
 
+img{
+    height: 120px;
+    width: 120px;
+    margin: 20px;
+}
+
 #logo{
     float: left;
 }
@@ -57,10 +63,14 @@ h1{
     padding-top: 50px;
 }
 
- img{
-    height: 120px;
-    width: 120px;
-    margin: 20px;
+p{
+    text-align: center;
+    font-size: 70px;
+    padding-top: px;
+    
 }
+
+
+
 
     
