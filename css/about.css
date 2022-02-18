@@ -1,7 +1,6 @@
-/* Reset */
+
 * {
-    margin: 0;
-    padding: 0;
+    
     box-sizing: border-box;
 }
 
@@ -60,7 +59,9 @@ h1{
     text-align: center;
     color: darkslategray;
     font-size: 50px;
-    padding-top: 50px;
+    padding:50,0,10,10;
+    margin-left: 10px;
+
 }
 
 p{
@@ -69,6 +70,47 @@ p{
     padding-top: 50px;
     
 }
+
+footer{
+    float: down;
+    text-align: center;
+    padding: 3px;
+    background-color: beige;
+    color: black;
+}
+#main-footer{
+  text-align: center;  
+  background:#444 ;
+  color: #fff;
+  padding-left: 20px;
+}
+
+.fa {
+ padding: 20px;
+ font-size: 30px;
+ width: 50px;
+ text-align: right;
+ text-decoration: none; */
+
+
+
+.fa:hover {
+ opacity: 0.7;
+}
+
+/* Facebook */
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+
+
 
 
 

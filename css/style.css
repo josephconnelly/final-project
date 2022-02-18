@@ -121,9 +121,9 @@ a{
            /* height: 680px; */
            float: right;
            font-size: 50px;
-
-       }
-       footer{
+        }
+       
+        footer{
            float: down;
            text-align: center;
            padding: 3px;
@@ -137,4 +137,29 @@ a{
          padding: 20px;
        }
 
-       
+       .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 50px;
+        text-align: right;
+        text-decoration: none; */
+      
+     
+
+      .fa:hover {
+        opacity: 0.7;
+      }
+
+      /* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+ 
