@@ -1,9 +1,4 @@
-/* Reset */
-/* *{
-    margin: 0;
-    padding: 0%;
-    box-sizing: border-box;
-} */
+
 
 
 body{
@@ -74,9 +69,10 @@ h1{
 }
 
 /* contact form */
-#contact-form .form-group{
-    margin bottom: 20px;
+#contact-form .form-group {
+    margin-bottom: 20px;
 }
+
 #contact-form label {
     display: block;
     margin-top: 20px;
@@ -114,15 +110,7 @@ footer{
  text-align: right;
  text-decoration: none; 
 }
-/* .fa {
- padding: 20px;
- font-size: 30px;
- width: 30px;
- text-align: center;
- text-decoration: none;
- margin: 5px 2px;
- border-radius: 50%;
-} */
+
 
 .fa:hover {
  opacity: 0.7;
